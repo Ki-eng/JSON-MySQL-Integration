@@ -1,0 +1,72 @@
+[
+    {
+        "id": "6",
+        "name": "Maryam",
+        "sclass": "1",
+        "address": "karachi",
+        "phone": "34567890"
+    },
+    {
+        "id": "7",
+        "name": "Nimrah",
+        "sclass": "2",
+        "address": "Lahore",
+        "phone": "34567890"
+    },
+    {
+        "id": "8",
+        "name": "Kiran",
+        "sclass": "3",
+        "address": "Islamabad",
+        "phone": "3235678"
+    },
+    {
+        "id": "9",
+        "name": "kinza",
+        "sclass": "3",
+        "address": "Quetta",
+        "phone": "34567890"
+    },
+    {
+        "id": "10",
+        "name": "Fizza",
+        "sclass": "1",
+        "address": "Karachi",
+        "phone": "342657"
+    },
+    {
+        "id": "11",
+        "name": "tayyaba",
+        "sclass": "2",
+        "address": "Karachi",
+        "phone": "123456"
+    },
+    {
+        "id": "12",
+        "name": "maha",
+        "sclass": "4",
+        "address": "lahore",
+        "phone": "9876540"
+    },
+    {
+        "id": "25",
+        "name": "Kiran Saleem",
+        "sclass": "3",
+        "address": "#246gdy7",
+        "phone": "4326890"
+    },
+    {
+        "id": "28",
+        "name": "AMNA",
+        "sclass": "4",
+        "address": "Quetta",
+        "phone": "96321"
+    },
+    {
+        "id": "29",
+        "name": "rimsha",
+        "sclass": "2",
+        "address": "karachi",
+        "phone": "4321690"
+    }
+]

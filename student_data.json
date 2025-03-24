@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Kumar Sanu",
+        "age": "25",
+        "city": "Goa"
+    },
+    {
+        "name": "Ram Kumar",
+        "age": "56",
+        "city": "Agra"
+    },
+    {
+        "name": "Nimrah",
+        "age": "22",
+        "city": "Karachi"
+    },
+    {
+        "name": "Kiran",
+        "age": "22",
+        "city": "Karachi"
+    },
+    {
+        "name": "Nimrah",
+        "age": "20",
+        "city": "Lahore"
+    },
+    {
+        "name": "FARAH",
+        "age": "30",
+        "city": "LAHORE"
+    },
+    {
+        "name": "Waseem Saleem",
+        "age": "35",
+        "city": "Karachi"
+    }
+]

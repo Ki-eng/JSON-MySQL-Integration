@@ -1,0 +1,65 @@
+[
+    {
+        "id": "6",
+        "name": "Maryam",
+        "sclass": "1",
+        "address": "karachi",
+        "phone": "34567890"
+    },
+    {
+        "id": "7",
+        "name": "Nimrah",
+        "sclass": "2",
+        "address": "Lahore",
+        "phone": "34567890"
+    },
+    {
+        "id": "8",
+        "name": "Kiran",
+        "sclass": "3",
+        "address": "Islamabad",
+        "phone": "3235678"
+    },
+    {
+        "id": "9",
+        "name": "Aiman",
+        "sclass": "4",
+        "address": "Quetta",
+        "phone": "34567890"
+    },
+    {
+        "id": "10",
+        "name": "Sumbal",
+        "sclass": "2",
+        "address": "karachi",
+        "phone": "342657"
+    },
+    {
+        "id": "11",
+        "name": "tayyaba",
+        "sclass": "2",
+        "address": "Karachi",
+        "phone": "123456"
+    },
+    {
+        "id": "12",
+        "name": "maha",
+        "sclass": "4",
+        "address": "lahore",
+        "phone": "9876540"
+    },
+    {
+        "id": "13",
+        "name": "HIRA",
+        "sclass": "4",
+        "address": "multan",
+        "phone": "87540"
+    },
+    {
+        "id": "14",
+        "name": "fariha",
+        "sclass": "4",
+        "address": "karachi",
+        "phone": "9087654"
+    }
+]
